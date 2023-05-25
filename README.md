@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu K</h1>
-<h3 align="center">A passionate mern developer from India</h3>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
