@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Building **[odux.in](https://www.odux.in)**
 
-- 💬 Ask me about **React | Node.js | Express | MongoDB**
+- 💬 Ask me about **React | Node.js | Express | MongoDB | Next.js**
 
 - 📫 How to reach me **vishnuk1609@gmail.com**
 <hr />
