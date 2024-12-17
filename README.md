@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu K</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-- 🔭 I’m currently Building **[odux.in](https://www.odux.in)**
+- 🔭 I’m currently Building **[odux.in](https://www.giftoora.com)**
 
 - 💬 Ask me about **React | Node.js | Express | MongoDB | Next.js**
 
