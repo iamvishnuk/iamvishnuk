@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishnu K</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-- 🔭 I'm currently Building **[giftoora.com](https://www.giftoora.com)**
+- 🌐 Check out my personal website **[vishnuk.dev](https://www.vishnuk.dev)**  
 
-- 💬 Ask me about **React | Node.js | Express | MongoDB | Next.js**
+- 💬 Ask me about **React | Node.js | Express | MongoDB | Next.js**  
 
-- 📫 How to reach me **vishnuk1609@gmail.com**
+- 📫 How to reach me **vishnuk1609@gmail.com**  
 <hr />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -44,6 +45,7 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <hr />
