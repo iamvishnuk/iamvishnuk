@@ -50,8 +50,28 @@
 
 <hr />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamvishnuk&show_icons=true&locale=en" alt="iamvishnuk" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishnuk&layout=compact" />
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvishnuk&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvishnuk&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamvishnuk&show_icons=true" />
+  </picture>
+  <img alt="iamvishnuk's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iamvishnuk&theme=dark&hide_border=false&short_numbers=true"/>
+</div>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamvishnuk&show_icons=true&locale=en" alt="iamvishnuk" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishnuk&layout=compact" /> -->
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## Leetcode
 ![Vishnu's Leetcode](https://leetcard.jacoblin.cool/vishnukkakkarayil?ext=heatmap)
