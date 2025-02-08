@@ -70,7 +70,9 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -136,7 +138,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 00:31:24 UTC
+ Last Updated on 08/02/2025 00:30:16 UTC
 <!--END_SECTION:waka-->
 
 
